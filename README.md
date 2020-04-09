@@ -10,9 +10,13 @@ Ao rodar a aplicação, o usuário passará um critério de busca no Stackoverfl
 ## Instalação
 
  1. Crie uma virtual virtual environment python
+ 
  `$ python3 -m venv venv`
  
  2. Ative a environment
+ 
  `$ source venv/bin/activate`
+ 
  3. Instale as dependências
+ 
  `$ pip install requests`
